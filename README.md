@@ -15,7 +15,6 @@ Computer Science Undergrad at National Institute of Technology Warangal(NITW)
 <p align="left">
 <a href="https://twitter.com/naveenshankxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naveenshankxr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naveen-shankar-586908b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-shankar-586908b2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveenshankar2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveenshankar2010" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

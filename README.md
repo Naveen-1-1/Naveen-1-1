@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate developer</h3>
 
-Computer Science Undergrad at National Institute of Technology Warangal(NITW)
+Computer Science Grad at Northeastern University (Boston)
 
-- 📫 How to reach me **naveenshankar2010@gmail.com**
+- 📫 How to reach me **nagarajasudhakar.n@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/naveen-shankar-586908b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-shankar-586908b2" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/naveen-shankar-i001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-shankar-i001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

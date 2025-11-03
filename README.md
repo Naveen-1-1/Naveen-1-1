@@ -18,6 +18,3 @@ Computer Science Grad at Northeastern University (Boston)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1-1&show_icons=true&count_private=true&locale=en&hide=stars,prs,issues,contribs" alt="naveen-1-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-1-1&" alt="naveen-1-1" /></p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-1-1&title=Commit,Repositories" alt="naveen-1-1" /></a> </p>

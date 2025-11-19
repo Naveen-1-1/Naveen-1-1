@@ -15,6 +15,6 @@ Computer Science Grad at Northeastern University (Boston)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-1-1&show_icons=true&locale=en&layout=compact&count_private=true" alt="naveen-1-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1-1&show_icons=true&count_private=true&locale=en&hide=stars,prs,issues,contribs" alt="naveen-1-1" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1-1&show_icons=true&count_private=true&locale=en&hide=stars,prs,issues,contribs" alt="naveen-1-1" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-1-1&" alt="naveen-1-1" /></p>

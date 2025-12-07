@@ -1,31 +1,65 @@
-<h1 align="center">Hi there 👋, I'm Naveen Shankar</h1>
-<h3 align="center">A passionate developer</h3>
+# Hi there, I'm Naveen Shankar 👋
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-orange?style=for-the-badge)](https://naveen-1-1.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-shankar-i001)
+[![Email](https://img.shields.io/badge/EMAIL-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajasudhakar.n@northeastern.edu)
+
+</div>
 
 ## 🚀 About Me
-MS in Computer Science student at Northeastern University (Boston), with 3+ years of professional experience building production-scale AI systems and enterprise applications at Standard Chartered.
 
-- 🔬 Currently working on fine-tuning conversational LLM chatbots for e-commerce using LoRA techniques and AI Agents
-- 💼 Previously built AI chatbots serving 10,000+ employees and humanoid robot systems handling 15,000+ monthly interactions
+MS in Computer Science student at **Northeastern University** (Boston), with 3+ years of professional experience building production-scale AI systems and enterprise applications at **Standard Chartered**.
+
+- 🔬 Currently working on **fine-tuning conversational LLM chatbots** for e-commerce using LoRA techniques and **creating AI Agents**
+- 💼 Previously built **AI chatbots serving 10,000+ employees** and **humanoid robot systems** handling 15,000+ monthly interactions
 - 🏆 Singapore OpenGov Award winner | Innovation Gladiators Award recipient
 
-## 💡 What I'm Working On
+## 🛠️ Technical Stack
 
-- 🤖 Fine-tuning conversational AI agents with advanced NLP techniques
-- 🧠 Developing ML projects
-- 📊 Building interactive web deployments for ML models using Streamlit
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-- 📫 How to reach me **nagarajasudhakar.n@northeastern.edu**
+**AI/ML & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
 
-## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/naveen-shankar-i001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-shankar-i001" height="30" width="40" /></a>
-</p>
+**Backend & Databases**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-## Languages and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-1-1&show_icons=true&locale=en&layout=compact&count_private=true" alt="naveen-1-1" /></p>
+## 📊 GitHub Stats
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1-1&show_icons=true&count_private=true&locale=en&hide=stars,prs,issues,contribs" alt="naveen-1-1" /></p> -->
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-1-1&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-1-1&" alt="naveen-1-1" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen-1-1&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 💬 Let's Collaborate!
+
+I'm always interested in collaborating on ML/NLP projects, discussing system design, or exploring new opportunities in software engineering and AI.
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/naveen-1-1">naveen-1-1</a> | Building the future, one commit at a time</i>
+</div>

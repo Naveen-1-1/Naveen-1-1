@@ -1,18 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Naveen Shankar</h1>
 <h3 align="center">A passionate developer</h3>
 
-🚀 About Me
+## 🚀 About Me
 MS in Computer Science student at Northeastern University (Boston), with 3+ years of professional experience building production-scale AI systems and enterprise applications at Standard Chartered.
 
-🔬 Currently working on fine-tuning conversational LLM chatbots for e-commerce using LoRA techniques and AI Agents
-💼 Previously built AI chatbots serving 10,000+ employees and humanoid robot systems handling 15,000+ monthly interactions
-🏆 Singapore OpenGov Award winner | Innovation Gladiators Award recipient
+- 🔬 Currently working on fine-tuning conversational LLM chatbots for e-commerce using LoRA techniques and AI Agents
+- 💼 Previously built AI chatbots serving 10,000+ employees and humanoid robot systems handling 15,000+ monthly interactions
+- 🏆 Singapore OpenGov Award winner | Innovation Gladiators Award recipient
 
-💡 What I'm Working On
+## 💡 What I'm Working On
 
-🤖 Fine-tuning conversational AI agents with advanced NLP techniques
-🧠 Developing ML projects
-📊 Building interactive web deployments for ML models using Streamlit and Gradio
+- 🤖 Fine-tuning conversational AI agents with advanced NLP techniques
+- 🧠 Developing ML projects
+- 📊 Building interactive web deployments for ML models using Streamlit
 
 - 📫 How to reach me **nagarajasudhakar.n@northeastern.edu**
 

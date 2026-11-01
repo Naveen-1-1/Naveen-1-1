@@ -12,11 +12,7 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 MS in Computer Science student at **Northeastern University** (Boston), focused on backend systems, distributed infrastructure, and AI agents with Java, Python, and AWS.
-
-- 🏆 Singapore OpenGov Award winner | Innovation Gladiators Award recipient | British West Midlands Tech Award
 
 ## 🛠️ Technical Stack
 

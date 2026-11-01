@@ -6,17 +6,17 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-orange?style=for-the-badge)](https://naveen-1-1.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-shankar-i001)
-[![Email](https://img.shields.io/badge/EMAIL-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarajasudhakar.n@northeastern.edu)
+[![Email](https://img.shields.io/badge/EMAIL-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenshankar2010@gmail.com)
 
 </div>
 
 ## 🚀 About Me
 
-MS in Computer Science student at **Northeastern University** (Boston), with 3+ years of professional experience building production-scale AI systems and enterprise applications at **Standard Chartered**.
+## 🚀 About Me
 
-- 🔬 Currently working on **fine-tuning conversational LLM chatbots** for e-commerce using LoRA techniques and **creating AI Agents**
-- 💼 Previously built **AI chatbots serving 10,000+ employees** and **humanoid robot systems** handling 15,000+ monthly interactions
-- 🏆 Singapore OpenGov Award winner | Innovation Gladiators Award recipient
+MS in Computer Science student at **Northeastern University** (Boston), focused on backend systems, distributed infrastructure, and AI agents with Java, Python, and AWS.
+
+- 🏆 Singapore OpenGov Award winner | Innovation Gladiators Award recipient | British West Midlands Tech Award
 
 ## 🛠️ Technical Stack
 
